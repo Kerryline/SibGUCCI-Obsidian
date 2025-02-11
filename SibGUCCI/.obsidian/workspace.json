@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Добро пожаловать.md",
+                "file": "Игра текст блять/Сюжет.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Добро пожаловать"
+              "title": "Сюжет"
             }
           }
         ]
@@ -170,6 +170,8 @@
   },
   "active": "47fb7c90bbd69423",
   "lastOpenFiles": [
-    "Добро пожаловать.md"
+    "Добро пожаловать.md",
+    "Игра текст блять/Сюжет.md",
+    "Игра текст блять"
   ]
 }
